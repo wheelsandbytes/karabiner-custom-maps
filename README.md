@@ -1,4 +1,4 @@
-# custom keymaps using complex modificatiosn in karabiner-elements
+# custom keymaps using complex modifications in karabiner-elements
 
 ---
 
